@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a76b606-3292-4b59-b608-5161f03afde8" name="Default" comment="" />
+    <list default="true" id="7a76b606-3292-4b59-b608-5161f03afde8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Programs.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/First_prog.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378023950289" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/01_System/1_SM_Open_all_value_map_tabs_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378395639895" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/objects_base.yml" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378500206399" ignored="false" />
+    <file path="/1_SM_Open_all_value_map_tabs_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378391613216" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/common/utilities.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498011166" ignored="false" />
+    <file path="/utilities.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378493246484" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/01_System/01_System_Helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378239740522" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/03_Material/3_SM_metal_market_price_app_basic_functionality_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228651525" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/common/application.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378499833850" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/07_Reports/7_SM_open_report_application_verify_where_used_report_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228651525" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/common/home.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228652021" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/02_Prog_Config/2_SM_Open_ all_tabs_in_enhanced_eprogram_application_for_a_service_program_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228652021" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/02_Prog_Config/2_SM_Open_customer_alias_screen_in_customer_maintenance_application_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228652021" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/02_Prog_config/02_Client_select_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228652021" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/01_System/01_System_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378478750828" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/03_Material/03_Material_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378395639895" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/07_Reports/7_SM_open_client_scorecard_from_eclientlink_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378241390080" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/07_Reports/7_SM_open_the_iap_report_criteria_page_from_reports_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378241390080" ignored="false" />
+    <file path="/Dummy.txt" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378535071244" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/01_System/1_SM_Open_tabs_in_web_security_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378267744926" ignored="false" />
+    <file path="/1_SM_Open_tabs_in_web_security_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378267728836" ignored="false" />
+    <file path="/01_System_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378320709119" ignored="false" />
+    <file path="/application.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378494133345" ignored="false" />
+    <file path="/objects_base.yml" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378493850252" ignored="false" />
+    <file path="/greeting.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378271766138" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/04_Brochure_Builder/04_brochure_builder.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378478750828" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/performance/Gemfile" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378322765450" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/01_System/1_SM_login_to_eclientlink_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378395639895" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/06_Order_Entry/06_Order_entry_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378499833850" ignored="false" />
+    <file path="/06_Order_entry_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498090048" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_SM_Emblem_options_all_browsers_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498101750" ignored="false" />
+    <file path="/6_SM_Emblem_options_all_browsers_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498270638" ignored="false" />
+    <file path="/fragment.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378497621461" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_03_SM_Emblem_options_all_browsers_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498270638" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/03_Material/3_SM_TC_Open_all_tabs_in_pricing_utilities_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498380204" ignored="false" />
+    <file path="/Week_1.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378528675136" ignored="false" />
+    <file path="/blackjack.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378534602236" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,28 +62,80 @@
     <favorites_list name="Programs" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="greeting.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Programs/greeting.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="40" column="0" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="blackjack.rb" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Programs/blackjack.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="calc.rb" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Programs/calc.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2669903">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2422" />
+      </map>
+    </option>
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Learn_to_one.rb/First_prog.rb" />
         <option value="$PROJECT_DIR$/Learn_to_one.rb/calc.rb" />
+        <option value="$PROJECT_DIR$/Programs/greeting.rb" />
+        <option value="$PROJECT_DIR$/Programs/calc.rb" />
+        <option value="$PROJECT_DIR$/Programs/Week_1.rb" />
+        <option value="$PROJECT_DIR$/Programs/blackjack.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="917" />
-    <option name="y" value="-1079" />
-    <option name="width" value="998" />
-    <option name="height" value="1079" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -70,6 +161,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -94,14 +186,14 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/katana/performance" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -134,6 +226,26 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
@@ -191,17 +303,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="917" y="-1079" width="998" height="1079" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="-1080" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29831934" sideWeight="0.6707317" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16275346" sideWeight="0.67039675" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32960325" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -274,16 +386,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Learn_to_one.rb/calc.rb">
+    <entry file="file://$PROJECT_DIR$/Programs/greeting.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learn_to_one.rb/calc.rb">
+    <entry file="file://$PROJECT_DIR$/Programs/calc.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="0.4144527">
+        <state line="11" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2669903">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/greeting.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/blackjack.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

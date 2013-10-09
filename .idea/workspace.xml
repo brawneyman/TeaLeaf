@@ -2,48 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a76b606-3292-4b59-b608-5161f03afde8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programs/OO_Blackjack.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Programs.iml" afterPath="$PROJECT_DIR$/.idea/Programs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Programs/blackjack.rb" afterPath="$PROJECT_DIR$/Programs/blackjack.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Programs.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/First_prog.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378023950289" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/01_System/1_SM_Open_all_value_map_tabs_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378395639895" ignored="false" />
-    <file path="$USER_HOME$/Documents/katana/milestones/objects_base.yml" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378500206399" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/objects_base.yml" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417663" ignored="false" />
     <file path="/1_SM_Open_all_value_map_tabs_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378391613216" ignored="false" />
-    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/common/utilities.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498011166" ignored="false" />
-    <file path="/utilities.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378493246484" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/common/utilities.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381161029760" ignored="false" />
+    <file path="/utilities.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380747568646" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/01_System/01_System_Helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378239740522" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/03_Material/3_SM_metal_market_price_app_basic_functionality_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228651525" ignored="false" />
-    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/common/application.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378499833850" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/common/application.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381161029760" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/07_Reports/7_SM_open_report_application_verify_where_used_report_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228651525" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/common/home.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228652021" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/02_Prog_Config/2_SM_Open_ all_tabs_in_enhanced_eprogram_application_for_a_service_program_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228652021" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/02_Prog_Config/2_SM_Open_customer_alias_screen_in_customer_maintenance_application_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228652021" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/02_Prog_config/02_Client_select_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378228652021" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/01_System/01_System_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378478750828" ignored="false" />
-    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/03_Material/03_Material_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378395639895" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/03_Material/03_Material_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379349952184" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/07_Reports/7_SM_open_client_scorecard_from_eclientlink_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378241390080" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/07_Reports/7_SM_open_the_iap_report_criteria_page_from_reports_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378241390080" ignored="false" />
-    <file path="/Dummy.txt" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378535071244" ignored="false" />
+    <file path="/Dummy.txt" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380737901738" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/01_System/1_SM_Open_tabs_in_web_security_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378267744926" ignored="false" />
     <file path="/1_SM_Open_tabs_in_web_security_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378267728836" ignored="false" />
     <file path="/01_System_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378320709119" ignored="false" />
-    <file path="/application.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378494133345" ignored="false" />
-    <file path="/objects_base.yml" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378493850252" ignored="false" />
+    <file path="/application.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380834066518" ignored="false" />
+    <file path="/objects_base.yml" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380834198972" ignored="false" />
     <file path="/greeting.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378271766138" ignored="false" />
-    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/04_Brochure_Builder/04_brochure_builder.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378478750828" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/04_Brochure_Builder/04_brochure_builder.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379348091311" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/performance/Gemfile" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378322765450" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/01_System/1_SM_login_to_eclientlink_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378395639895" ignored="false" />
-    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/06_Order_Entry/06_Order_entry_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378499833850" ignored="false" />
-    <file path="/06_Order_entry_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498090048" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/06_Order_Entry/06_Order_entry_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381338590426" ignored="false" />
+    <file path="/06_Order_entry_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381338588993" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_SM_Emblem_options_all_browsers_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498101750" ignored="false" />
     <file path="/6_SM_Emblem_options_all_browsers_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498270638" ignored="false" />
-    <file path="/fragment.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378497621461" ignored="false" />
-    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_03_SM_Emblem_options_all_browsers_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498270638" ignored="false" />
+    <file path="/fragment.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380736417388" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_03_SM_Emblem_options_all_browsers_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378838514562" ignored="false" />
     <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/03_Material/3_SM_TC_Open_all_tabs_in_pricing_utilities_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378498380204" ignored="false" />
     <file path="/Week_1.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378528675136" ignored="false" />
     <file path="/blackjack.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378534602236" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_05_SM_(YOE)_Language_selection_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378826462483" ignored="false" />
+    <file path="/6_05_SM_(YOE)_Language_selection_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378760301998" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/spec_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379524083072" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_02_SM_open_award_information_in_track_an_award_app_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378827087701" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_01_SM_(WebOE)_Open_a_static_webpage_and_verify_no_errors_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378827087701" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_09_YOE_Logout_from_YOE_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378835542823" ignored="false" />
+    <file path="/6_09_YOE_Logout_from_YOE_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378914538881" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_09_SM_YOE_Logout_from_YOE_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378914959191" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_06_SM_Navigate_to_landing_page_in_valid_program_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379523394242" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/template.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378914959191" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/04_Brochures/4_12_Tailored_premiere_PDF_generation_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379013618978" ignored="false" />
+    <file path="/4_12_Tailored_premiere_PDF_generation_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379346242883" ignored="false" />
+    <file path="/04_brochure_builder.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379001798091" ignored="false" />
+    <file path="/OO_Blackjack.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1378955799917" ignored="false" />
+    <file path="/spec_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379523385834" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_12_SM_Open_existing_note_in_order_entry_notes_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379013590345" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_09_SM_TC_Open_existing_note_in_order_entry_notes_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379013598589" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_11_SM_open_existing_note_in_order_entry_notes_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379013634120" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/06_09_SM_TC_Open_existing_note_in_order_entry_notes_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379016017971" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_04_SM_TC_CLOE_Place_an_order_using_Access_code_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379016039499" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/04_Brochures/4_13_SM_Tailored_premiere_PDF_generation_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379523394242" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_20_SM_YOE_Check_if_ticker_is_visible_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379348468509" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/04_Brochure_Builder/04_Brochure_builder_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381161029760" ignored="false" />
+    <file path="/6_20_SM_YOE_Check_if_ticker_is_visible_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379350238566" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_20_SM_YOE_anonymous_browsing_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379524083072" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_21_SM_YOE_Check_if_ticker_is_visible_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379349952184" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_15_SM_open_a_return_in_return_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379349952184" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_22_SM_YOE_Check_if_ticker_is_visible_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379523394242" ignored="false" />
+    <file path="/6_22_SM_YOE_Check_if_ticker_is_visible_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379522459536" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/05_Recipient/5_L1-Add_new_recipient_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380907451517" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/helpers/05 - Recipient/05_Recipient_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379370100681" ignored="false" />
+    <file path="/05_Recipient_helper.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379368964521" ignored="false" />
+    <file path="/6_06_SM_Navigate_to_landing_page_in_valid_program_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379369324502" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_18_SM_YOE-Validate_the_user_can_place_an_order_by_clicking_on_the_Order_link_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1379523394242" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_25_SM_Check_FAQ_are_displaying_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380910625239" ignored="false" />
+    <file path="/6_25_SM_Check_FAQ_are_displaying_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380906700739" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_11_L1_Brochure_builder_web_tab_default_blocks_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_12_L1_Brochure_builder_web_tab_available_blocks_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_13_L1_Block_details_load_properly_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_14_L1_Brochure_builder_generate_tailored_p&amp;w_proofs_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_L1_apply_to_all_ levels_doesnt_ affect_award_level_specific_Sample_Messages_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381161029760" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_L1_apply_to_all_levels_copies_the_stringID_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381161029760" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_L1_Apply_to_all_levels_copy_the_nonawardlevel_specific_Sample_Messages_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381161029760" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_L1_Block_details_load_properly_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381161029760" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_L1_Proof_Generation_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381161029760" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_10_L1_Print_tab_available_blocks_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_09_L1_Brochure_builder_print_&amp;_web_tabs_for_print_&amp;_web_brochures_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_08_L1_Brochure_builder_custom_brochure_theme_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_07_L1_web_only_brochure_web_tab_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_06_L1_Brochure Builder_brochure_page_layout_in_scrolling_planel_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_05_L1_web_only_brochure_web_tab_available_blocks_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_04_L1_Brochure_builder_award_level_specific_sample_message_defaults_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_03_L1_award_level_drop_down_menu_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_02_L1_page_count_disabled_for_web_only_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_01_L1_Brochure_builder_change_award_level_without_saving_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="/sinatra.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380081809855" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Smoke/06_Order_Entry/6_02_SM_Open_award_information_in_track_an_award_app_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380564639318" ignored="false" />
+    <file path="/4_01_L1_Brochure_builder_change_award_level_without_saving_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380575080790" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/c:brochures_smoke.html" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1380645534122" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_15_L1_Tailored_premiere_recipient_processing_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/logger.log" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381346646482" ignored="false" />
+    <file path="$USER_HOME$/Documents/katana/milestones/spec/features/Level1/04_Brochures/4_27_L1_Audit_recipient_creation_spec.rb" changelist="7a76b606-3292-4b59-b608-5161f03afde8" time="1381248417406" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +141,25 @@
           <file leaf-file-name="blackjack.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Programs/blackjack.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                <state line="35" column="12" selection-start="607" selection-end="607" vertical-scroll-proportion="0.85924715">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="OO_Blackjack.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Programs/OO_Blackjack.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="69" column="0" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="sinatra.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Programs/sinatra.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -90,7 +172,7 @@
           <file leaf-file-name="calc.rb" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Programs/calc.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2669903">
+                <state line="11" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.27591974">
                   <folding />
                 </state>
               </provider>
@@ -127,13 +209,16 @@
         <option value="$PROJECT_DIR$/Programs/calc.rb" />
         <option value="$PROJECT_DIR$/Programs/Week_1.rb" />
         <option value="$PROJECT_DIR$/Programs/blackjack.rb" />
+        <option value="$PROJECT_DIR$/Programs/OO_Blackjack.rb" />
+        <option value="$PROJECT_DIR$/Programs/sinatra.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-1080" />
+    <option name="x" value="1441" />
+    <option name="y" value="301" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -303,17 +388,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1080" width="1920" height="1080" extended-state="6" />
+    <frame x="1441" y="301" width="1920" height="878" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16275346" sideWeight="0.67039675" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17502668" sideWeight="0.8181818" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32960325" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18181819" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -388,14 +473,28 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Programs/greeting.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="40" column="0" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/blackjack.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="136" column="4" selection-start="2523" selection-end="2523" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/OO_Blackjack.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Programs/calc.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2669903">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -409,7 +508,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Programs/blackjack.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/calc.rb">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/greeting.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/blackjack.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/calc.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/greeting.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/greeting.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/sinatra.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/calc.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.27591974">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/OO_Blackjack.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="0" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/blackjack.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="12" selection-start="607" selection-end="607" vertical-scroll-proportion="0.85924715">
           <folding />
         </state>
       </provider>
